@@ -1,0 +1,15 @@
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\ProductTrackingProgram\ProductTrackingProgram\bin\Debug\ProductTrackingProgram.exe.config
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\ProductTrackingProgram\ProductTrackingProgram\bin\Debug\ProductTrackingProgram.exe
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\ProductTrackingProgram\ProductTrackingProgram\bin\Debug\ProductTrackingProgram.pdb
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\ProductTrackingProgram\ProductTrackingProgram\obj\Debug\ProductTrackingProgram.csproj.AssemblyReference.cache
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\ProductTrackingProgram\ProductTrackingProgram\obj\Debug\ProductTrackingProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\ProductTrackingProgram\ProductTrackingProgram\obj\Debug\ProductTrackingProgram.MainPage.resources
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\ProductTrackingProgram\ProductTrackingProgram\obj\Debug\ProductTrackingProgram.ProductOperations.resources
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\ProductTrackingProgram\ProductTrackingProgram\obj\Debug\ProductTrackingProgram.Properties.Resources.resources
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\ProductTrackingProgram\ProductTrackingProgram\obj\Debug\ProductTrackingProgram.csproj.GenerateResource.cache
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\ProductTrackingProgram\ProductTrackingProgram\obj\Debug\ProductTrackingProgram.csproj.CoreCompileInputs.cache
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\ProductTrackingProgram\ProductTrackingProgram\obj\Debug\ProductTrackingProgram.exe
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\ProductTrackingProgram\ProductTrackingProgram\obj\Debug\ProductTrackingProgram.pdb
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\ProductTrackingProgram\ProductTrackingProgram\obj\Debug\ProductTrackingProgram.CustomerOperations.resources
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\ProductTrackingProgram\ProductTrackingProgram\obj\Debug\ProductTrackingProgram.LogIn.resources
+C:\Users\batuh\OneDrive\Masaüstü\TermProject\ProductTrackingProgram\ProductTrackingProgram\obj\Debug\ProductTrackingProgram.Graphics.resources
